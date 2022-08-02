@@ -1,0 +1,851 @@
+.homeContainer {
+    width: 100%;
+    /* background-color: #7D7987; */
+}
+
+.navitem1 {
+    font-family: 'Mulish';
+    margin-left: 850px;
+    margin-top: 67px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+}
+
+.navitem2 {
+    font-family: 'Mulish';
+    margin-left: 980px;
+    margin-top: -27px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+.navitem3 {
+    font-family: 'Mulish';
+    margin-left: 1150px;
+    margin-top: -24px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+.navitem4 {
+    margin-left: 1250px;
+    margin-top: -20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+.navitem5 {
+    margin-left: 1420px;
+    margin-top: -20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+.leftHeader {
+    width: 100%;
+}
+
+.logo {
+    margin-left: 200px;
+
+
+}
+
+.introduction1 {
+    margin-left: 220px;
+    margin-top: 200px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.introduction2 {
+    margin-left: 220px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000
+}
+
+.introduction3 {
+    margin-left: 220px;
+    margin-top: 10px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    color: #7D7987;
+}
+
+.button1 {
+    margin-left: 220px;
+    margin-top: 30px;
+    border-radius: 55px;
+    background: #458FF6;
+    padding: 20px 35px 20px 35px;
+    border: 2px solid #458FF6;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+}
+
+.illustration1 {
+    margin-left: 820px;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.service {
+    text-align: center;
+    margin-top: 170px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.content2 {
+    text-align: center;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+    margin-top: 20px;
+}
+
+.design1 {
+    margin-top: 10px;
+    width: 35%;
+}
+
+.rectangle1 {
+    margin-left: -440px;
+    margin-top: 53px;
+}
+
+.magnifier {
+
+    position: absolute;
+    left: 14%;
+    bottom: -36%;
+}
+
+.person {
+
+    position: absolute;
+    left: 17%;
+    bottom: -30%;
+}
+
+.heading1 {
+    margin-left: 240px;
+    margin-top: -330px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.subHeading1 {
+    margin-left: 240px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7D7987;
+}
+
+.rectangle2 {
+
+    margin-left: 650px;
+    margin-top: -245px;
+}
+
+.online {
+    position: absolute;
+    left: 44%;
+    top: 126%;
+}
+
+.heading2 {
+    margin-left: 738px;
+    margin-top: -310px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.subHeading2 {
+    margin-left: 738px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7D7987;
+}
+
+.rectangle3 {
+    margin-left: 1150px;
+    margin-top: -276px;
+}
+
+.consultation {
+    position: absolute;
+    left: 74%;
+    top: 126%;
+}
+
+.heading3 {
+    margin-left: 1240px;
+    margin-top: -310px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.subHeading3 {
+    margin-left: 1240px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7D7987;
+}
+
+.rectangle4 {
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.Details {
+    position: absolute;
+    top: 177%;
+    left: 15%;
+}
+
+.heading4 {
+    margin-left: 240px;
+    margin-top: -330px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.subHeading4 {
+    margin-left: 240px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7D7987;
+}
+
+.rectangle5 {
+    margin-left: 650px;
+    margin-top: -245px;
+}
+
+.Emergency {
+    position: absolute;
+    top: 178%;
+    left: 43%;
+}
+
+.heading5 {
+    margin-left: 725px;
+    margin-top: -340px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.subHeading5 {
+    margin-left: 725px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7D7987;
+}
+
+.rectangle6 {
+    margin-left: 1150px;
+    margin-top: -245px;
+}
+
+.Tracking {
+    position: absolute;
+    left: 73%;
+    top: 177%;
+}
+
+.heading6 {
+    margin-left: 1228px;
+    margin-top: -345px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.subHeading6 {
+    margin-left: 1230px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7D7987;
+}
+
+.button2 {
+    border: 1.4px solid #458FF6;
+    border-radius: 50px;
+    color: #458FF6;
+    margin-left: 780px;
+    margin-top: 200px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 40px;
+    padding: 3px 20px 3px 20px;
+}
+
+.illustration2 {
+    margin-left: 80px;
+    width: 40%;
+}
+
+.healthcare {
+    margin-left: 1100px;
+    margin-top: -380px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.content3 {
+    margin-left: 1100px;
+    margin-top: 20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #7D7987;
+}
+
+.button3 {
+    border: 1.4px solid #458FF6;
+    border-radius: 50px;
+    color: #458FF6;
+    margin-left: 1100px;
+    margin-top: 20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 40px;
+    padding: 3px 20px 3px 20px;
+}
+
+.download {
+    margin-left: 250px;
+    margin-top: 300px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.content4 {
+    margin-left: 250px;
+    margin-top: 30px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #7D7987;
+}
+
+.button4 {
+    border: 1.4px solid #458FF6;
+    border-radius: 50px;
+    color: #458FF6;
+    margin-left: 240px;
+    margin-top: 20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 40px;
+    padding: 3px 22px 3px 20px;
+
+}
+
+.downloadSymbol {
+    margin-left: -24px;
+}
+
+.illustration3 {
+    position: absolute;
+    left: 50%;
+    top: 300%;
+}
+
+.rectangle7 {
+    position: absolute;
+    width: 56%;
+    top: 390%;
+}
+
+.customerReview {
+    margin-left: 620px;
+    position: absolute;
+    margin-top: 320px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.customerImage {
+    position: absolute;
+    left: 25%;
+    top: 407%;
+    width: 8%;
+}
+
+.customerName {
+    margin-left: 580px;
+    position: absolute;
+    margin-top: 460px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.customerJob {
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 500px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.customerFeedback {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 450px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.leftArrow {
+    margin-left: 290px;
+    margin-top: 757px;
+    position: absolute;
+}
+
+.ellipse1 {
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 760px;
+}
+
+.ellipse2 {
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 760px;
+}
+
+.ellipse3 {
+    position: absolute;
+    margin-left: 460px;
+    margin-top: 760px;
+}
+
+.ellipse4 {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 760px;
+}
+
+.rightArrow {
+    position: absolute;
+    margin-left: 560px;
+    margin-top: 757px;
+}
+
+.article {
+    text-align: center;
+    margin-top: 860px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.design2 {
+    float: right;
+}
+
+.rectangle8 {
+    margin-left: 170px;
+    margin-top: 80px;
+}
+
+.labImage1 {
+    margin-left: -410px;
+    position: absolute;
+    margin-top: 91px;
+}
+
+.labHeading1 {
+    margin-left: 270px;
+    margin-top: -340px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.labContent1 {
+    margin-left: 270px;
+    margin-top: 20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7D7987;
+}
+
+.readMore1 {
+    margin-left: 270px;
+    margin-top: 30px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 28px;
+    color: #4089ED;
+}
+
+.rightArrow2 {
+    margin-left: 370px;
+    position: absolute;
+    margin-top: -20px;
+    width: 1.5%;
+}
+
+.rectangle9 {
+    margin-left: 670px;
+    margin-top: -480px;
+    position: absolute;
+}
+
+.labImage2 {
+    margin-left: 710px;
+    position: absolute;
+    margin-top: -470px;
+}
+
+.labHeading2 {
+    position: absolute;
+    margin-left: 760px;
+    margin-top: -200px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.labContent2 {
+    position: absolute;
+    margin-left: 760px;
+    margin-top: -130px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7D7987;
+}
+
+.readMore2 {
+    position: absolute;
+    margin-left: 760px;
+    margin-top: -30px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 28px;
+    color: #4089ED;
+}
+
+.rightArrow3 {
+    position: absolute;
+    margin-left: 870px;
+    margin-top: -25px;
+    width: 1.5%;
+}
+
+.rectangle10 {
+    margin-left: 1150px;
+    margin-top: -480px;
+}
+
+.labImage3 {
+    position: absolute;
+    left: 71%;
+    top: 475%;
+}
+
+.labHeading3 {
+    position: absolute;
+    margin-left: 1240px;
+    margin-top: -340px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.labContent3 {
+    margin-left: 1240px;
+    position: absolute;
+    margin-top: -270px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7D7987;
+}
+
+.readMore3 {
+    margin-left: 1240px;
+    margin-top: -400px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 28px;
+    color: #4089ED;
+}
+
+.rightArrow4 {
+    position: absolute;
+    margin-left: 1350px;
+    margin-top: -23px;
+    width: 1.5%;
+}
+
+.button5 {
+    border: 1.4px solid #458FF6;
+    border-radius: 50px;
+    color: #458FF6;
+    margin-left: 810px;
+    margin-top: 150px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 40px;
+    padding: 3px 40px 3px 40px;
+}
+
+.background {
+    margin-top: 250px;
+    width: 100%;
+}
+
+.logo2 {
+    position: absolute;
+    left: 15%;
+    top: 600%;
+    color: #FFFFFF;
+}
+
+.ellipse5 {
+    position: absolute;
+    left: 12%;
+    top: 599%;
+}
+
+.logoText {
+    position: absolute;
+    left: 12.8%;
+    top: 600.4%;
+}
+
+.uses {
+    margin-left: 200px;
+    margin-top: -280px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.rights {
+    margin-left: 200px;
+    margin-top: 40px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.company {
+    margin-left: 800px;
+    margin-top: -220px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+
+.companyItems {
+    margin-left: 800px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.regions {
+    margin-left: 1100px;
+    margin-top: -238px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+
+.places {
+    margin-left: 1100px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.help {
+    margin-left: 1360px;
+    margin-top: -240px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+
+.contactDetails {
+    margin-left: 1350px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+
+}
