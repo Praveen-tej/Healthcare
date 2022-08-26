@@ -201,8 +201,8 @@
 }
 
 .heading2 {
-    margin-left: 737px;
-    margin-top: -310px;
+    margin-left: 738px;
+    margin-top: -311px;
     font-family: 'Mulish';
     font-style: normal;
     font-weight: 700;
@@ -212,7 +212,7 @@
 }
 
 .subHeading2 {
-    margin-left: 738px;
+    margin-left:738px;
     font-family: 'Mulish';
     font-style: normal;
     font-weight: 300;
@@ -220,6 +220,7 @@
     line-height: 22px;
     color: #7D7987;
 }
+
 
 .rectangle3 {
     margin-left: 1150px;
