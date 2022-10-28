@@ -1,0 +1,1 @@
+window.alert("Hi guys , Welcome to my Landing page");
