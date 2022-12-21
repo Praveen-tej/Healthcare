@@ -1,1 +1,1 @@
-window.alert("Hi guys , Welcome to my Landing page");
+window.alert("Hi guys , Welcome to my landing page");
