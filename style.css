@@ -802,7 +802,7 @@
     font-weight: 300;
     font-size: 18px;
     line-height: 22px;
-    color: #FFFFFF;
+    color: hsl(0, 0%, 100%);
 }
 
 .regions {
