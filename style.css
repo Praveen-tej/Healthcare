@@ -8,7 +8,7 @@
     margin-left: 850px;
     margin-top: 65px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 17px;
     line-height: 23px;
     color: #1F1534;
@@ -678,7 +678,7 @@
 .labImage3 {
     position: absolute;
     left: 71%;
-    top: 485%;
+    top: 474%;
 }
 
 .labHeading3 {
@@ -778,7 +778,7 @@
     margin-top: 40px;
     font-family: 'Mulish';
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 16px;
     line-height: 28px;
     color: #FFFFFF;
