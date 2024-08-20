@@ -1,4 +1,3 @@
-
 Health apps facilitate engagement through effective patient-focused care, 
 personalized experiences & knowledge sharing between doctors and patients.
 
